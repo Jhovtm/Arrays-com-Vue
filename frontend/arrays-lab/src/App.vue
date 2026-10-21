@@ -3,5 +3,6 @@ import InventoresView from './views/Inventors.vue'
 </script>
 
 <template>
+    <title></title>
   <InventoresView />
 </template>
